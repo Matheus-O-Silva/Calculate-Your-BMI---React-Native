@@ -6,10 +6,10 @@ export default function ResultImc(props) {
   return (
     <View>
       <Text>
-        {props.messageResultIMc}
+        {props.resultImc}
       </Text>
       <Text>
-        {props.resultImc}
+        {props.messageResultImc}
       </Text>
     </View>
   );
